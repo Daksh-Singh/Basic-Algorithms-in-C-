@@ -1,2 +1,4 @@
 # Basic Algorithms in C++
-Some basic Algorithms related to the course Design and Analysis of Algorithms 
+
+This repository contains some basic Algorithms related to the course Design and Analysis of Algorithms.
+It contains all the codes files with their respective time and space complexity wirtten along with the codes. 
